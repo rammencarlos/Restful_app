@@ -26,3 +26,15 @@ Tecnologías
 <hr class="rounded">
 <br/>
 
+<h5>Registrar un nuevo producto</h5>
+<p>Contiene validaciones para campos faltantes o incorrectos</p>
+<img src="https://cramos.dev/images/04.jpg" width="80%" height="80%">
+<hr class="rounded">
+
+<p>Campos correctos</p>
+<img src="https://cramos.dev/images/05.jpg" width="80%" height="80%">
+
+<br/>
+
+
+
