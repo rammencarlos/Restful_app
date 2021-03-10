@@ -8,7 +8,11 @@ Tecnologías
 •	Swagger cliente
 •	Singleton "DB"
 
-Index
+<h5>Página principal</h5>
 
 <img src="https://cramos.dev/images/01.jpg" width="80%" height="80%">
 
+<br/>
+<h5>Obtener productos</h5>
+<p>Estan pre cargados algunos productos de ejemplo</P
+<img src="https://cramos.dev/images/01.jpg" width="80%" height="80%">
