@@ -15,7 +15,14 @@ Tecnologías
 
 <br/>
 <h5>Obtener productos</h5>
-<p>Estan pre cargados algunos productos de ejemplo</P
-<img src="https://cramos.dev/images/01.jpg" width="80%" height="80%">
+<p>Estan pre cargados algunos productos de ejemplo</p>
+<img src="https://cramos.dev/images/02.jpg" width="80%" height="80%">
 <hr class="rounded">
-mas info
+<br/>
+
+<h5>Obtener un producto por Id</h5>
+
+<img src="https://cramos.dev/images/03.jpg" width="80%" height="80%">
+<hr class="rounded">
+<br/>
+
