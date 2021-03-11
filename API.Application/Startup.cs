@@ -46,8 +46,8 @@ namespace API.Application
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "API Restful .Net 5",
-                    Description = "Restful no DB, only Singleton",
+                    Title = "Web API .Net 5",
+                    Description = "Web API no DB, only Singleton",
                     Contact = new OpenApiContact
                     {
                         Name = "Cramos",
@@ -69,7 +69,7 @@ namespace API.Application
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Restful .NET 5 ");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Web API .NET 5 ");
                 c.RoutePrefix = string.Empty;
             });
 
